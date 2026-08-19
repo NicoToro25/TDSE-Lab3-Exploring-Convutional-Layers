@@ -1,6 +1,6 @@
 # Exploring Convolutional Layers through Data
 
-## Digital Transformation in Enterprise Systems (TDSE) - Lab 2
+## Digital Transformation in Enterprise Systems (TDSE) - Lab 3
 
 ## Nicolás Toro Criollo
 
